@@ -32,3 +32,14 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abilashini593&show_icons=true&theme=tokyonight" alt="abilashini's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilashini593&layout=compact&theme=tokyonight" />
+</p>
+
+
