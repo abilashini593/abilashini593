@@ -42,4 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilashini593&layout=compact&theme=tokyonight" />
 </p>
 
+### 🔥 GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abilashini593&theme=tokyonight)
+
+
 
