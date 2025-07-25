@@ -48,5 +48,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abilashini593)](https://git.io/streak-stats)
 
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=abilashini593&label=Profile%20views&color=0e75b6&style=flat" alt="abilashini593" /> 
+</p>
+
+
 
 
