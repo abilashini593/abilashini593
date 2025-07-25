@@ -46,5 +46,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abilashini593&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abilashini593)](https://git.io/streak-stats)
+
 
 
