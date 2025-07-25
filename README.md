@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Spring Boot**, **React**, and **MongoDB**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Git**
 - 🚀 I’m working on building real-world projects to sharpen my backend skills
-- 📫 How to reach me: **abilashini.@gmail.com**
+- 📫 How to reach me: **abikrishkumar@gmail.com**
 - ✨ Fun fact: I believe coffee + code can solve anything ☕💻
 
 - ---
