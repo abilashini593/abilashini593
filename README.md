@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abilashini</h1>
-<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | Full Stack Learner</h3>
+<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Spring Boot**, **React**, and **MongoDB**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Git**
