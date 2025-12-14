@@ -7,6 +7,15 @@
 - 📫 How to reach me: **abikrishkumar@gmail.com**
 - ✨ Fun fact: I believe coffee + code can solve anything ☕💻
 
+- ## 🚀 Featured Project
+
+### 📧 AI-Powered Email Reply Generator
+- Built using **Spring Boot** and **React**
+- Generates context-aware email replies using AI
+- Designed clean REST APIs and handled frontend–backend integration
+🔗 [GitHub Repo](https://github.com/abilashini593/AI-Powered-Email-Reply-Generator)
+
+
 - ---
 
 ### 🛠️ Languages and Tools
