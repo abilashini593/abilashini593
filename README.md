@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abilashini</h1>
-<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | Full Stack Developer</h3>
+<h3 align="center">Software Developer | Backend & Full Stack | AI-Powered Applications</h3>
 
 - 🌱 Experienced in building RESTful applications using Spring Boot, React, and MongoDB
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Git**
